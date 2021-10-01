@@ -1,0 +1,5 @@
+numero1 = int(input("Escribe un número: "))
+numero2 = int(input("Escribe otro número: "))
+print ("Valores proporcionados:", numero1, "y", numero2)
+print ("La suma es:", numero1 + numero2)
+print ("Fin del programa :)")
